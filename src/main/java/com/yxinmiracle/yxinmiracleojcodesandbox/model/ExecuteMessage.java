@@ -19,4 +19,6 @@ public class ExecuteMessage {
 
     private Long time;
 
+    private Long memory;
+
 }
